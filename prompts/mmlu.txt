@@ -1,0 +1,4 @@
+Answer the multiple choice question. Reason briefly, then finish with a final line in exactly this form:
+Answer: <letter>
+
+{question}

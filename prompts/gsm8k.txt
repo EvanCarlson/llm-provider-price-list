@@ -1,0 +1,4 @@
+Solve the problem. Reason step by step, then finish with a final line in exactly this form:
+Answer: <number>
+
+Problem: {question}

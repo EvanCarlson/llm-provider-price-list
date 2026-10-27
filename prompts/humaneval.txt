@@ -1,0 +1,5 @@
+Complete this Python function. Reply with the complete function, including its signature, in a single ```python code block and nothing else.
+
+```python
+{question}
+```
